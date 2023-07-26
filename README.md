@@ -21,3 +21,4 @@ Below are the key features and technologies used in this app:
 * Hilt 2.39.1+
 * glid 4.11.0+
 * coroutines 1.6.0+
+![mealsapp](https://github.com/Mohammed522-dot/Meals_app/assets/40872329/afabf341-ffe8-408e-b7fd-21bec2ba9e95)
